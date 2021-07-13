@@ -43,7 +43,7 @@
     "@babel/core": "^7.13.16",
     "@babel/preset-typescript": "^7.13.0",
     "@graphql-codegen/add": "^2.0.2",
-    "@graphql-codegen/cli": "1.21.4",
+    "@graphql-codegen/cli": "1.21.7",
     "@graphql-codegen/typescript": "1.22.0",
     "@graphql-codegen/typescript-operations": "1.17.16",
     "@testing-library/jest-dom": "^5.12.0",
